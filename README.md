@@ -87,5 +87,5 @@ Touch a file in the directory of your choice and edit the password and username 
    
 This concludes the installation of Docker Desktop and OpenVas as well as the prerequisites to enabiling the features for a Windows OS. The following lines are photos containing the Docker App itself as well as OpenVas running on the GUI.
 
-![Screenshot](https://raw.github.com/JGRUNE97/docker-readme-openvas/ProofconceptDocker1.jpg "OpenVas Vulnerability Scan")
-![Screenshot](docker-readme-openvas/ProofconceptDocker2.jpg "OpenVas Vulnerability Scan")
+![Screenshot](https://i.postimg.cc/VLXW1BsZ/Proofconcept-Docker1.jpg "OpenVas Vulnerability Scan")
+![Screenshot](https://i.postimg.cc/SxrLYSMW/Proofconcept-Docker2.jpg "OpenVas Vulnerability Scan")
